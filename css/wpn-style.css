@@ -1,0 +1,21 @@
+/*
+WP Sales Notifier CSS
+*/
+
+#wpsn-slideshow {margin: 0 auto; position: relative; width: 95%; height: auto;padding: 10px 0px; /*box-shadow: 0 0 20px rgba(0,0,0,0.4);*/}
+#wpsn-slideshow {clear:both}#wpsn-slideshow .wpsn-inner img{float:left;margin:5px 10px;height:80px;max-width:80px;position:relative;overflow:hidden;padding:0px;}#wpsn-slideshow .wpsn-inner span.wpn-title a{display: block;position: relative;font-size:14px;}#wpsn-slideshow .wpsn-inner span.wpn-buyer {/* display: inline-block; */font-size: 12px;width: 100%;}#wpsn-slideshow .wpsn-inner span.wpn-time {font-size: 12px;display: block;width: 100%;position: relative;}
+/** addon CSS */
+#wpsn-right {right:20px;}
+#wpsn-left {left:20px;}
+.wp-post-notification{padding:0.5rem;background:none repeat scroll 0 0 #FFFFFF;border:0 none;border-radius:0px;box-shadow:0 0 2px 0 rgba(0, 0, 0, 0.4);font-size:12px;position:fixed;text-align:left;width:auto; min-width:200px;height:100px;z-index:99999;bottom:-100%;overflow:hidden;bottom:-100px;opacity:1;-ms-flex-align: center;align-items: center;-ms-flex-pack: center;justify-content: center;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px;}
+.wpsalesnotifier-sec .wpn-image,.wpsalesnotifier-sec .wpn-inner {display: inline-block;text-align: left;}
+.wpsalesnotifier-sec span.wpn-title a{display:block;}
+.wp-post-notification img{margin-right:10px;height:auto;max-width:75px;position:relative;overflow:hidden;}
+.caroufredsel_wrapper .div-left{margin-left:15px;}
+.caroufredsel_wrapper .div-right{float:left!important;}
+.wp-post-notification td{border:0px!important;}
+.wp-post-notification .wpn_sales_close_btn{display:block;position:absolute;width:16px;height:16px;top:2px;right:2px;background-image:url("images/close-lf.png");}
+span.wpn-title a{position: relative;font-size:14px;box-shadow:none;line-height:20px;}
+span.wpn-buyer {font-size: 12px;width: 100%;}
+span.wpn-time {font-size: 14px;font-weight: bold;display: block;width: 100%;position: relative;}
+
